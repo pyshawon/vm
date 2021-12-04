@@ -1,0 +1,3 @@
+
+class CandidateAreaException(Exception):
+    pass
